@@ -92,7 +92,6 @@ pnpm add --save-dev --save-exact prettier
 ```
 {
   "semi": false,
-  "trailingComma": "all",
   "printWidth": 100
 }
 ```
